@@ -216,3 +216,19 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Dados brutos da atividade (download automático)
+dados/*.zip
+dados/*.xlsx
+*.Zone.Identifier
+*:Zone.Identifier
+
+# Saídas individuais geradas localmente
+resultados/clientes_segmentados.csv
+resultados/probabilidades_gmm.csv
+
+# Visualizações individuais geradas localmente
+resultados/dashboard.html
+resultados/pca2d.json
+resultados/pca3d.json
+resultados/valor.json

@@ -1,0 +1,15 @@
+{
+  "linhas_originais": 541909,
+  "duplicatas": 5268,
+  "sem_cliente": 135037,
+  "campos_invalidos": 0,
+  "cancelamentos": 8872,
+  "quantidade_nao_positiva": 0,
+  "preco_nao_positivo": 40,
+  "linhas_validas": 392692,
+  "clientes": 4338,
+  "referencia": "2011-12-10",
+  "inicio": "2010-12-01 08:26:00",
+  "fim": "2011-12-09 12:50:00",
+  "receita_bruta": 8887208.894000001
+}

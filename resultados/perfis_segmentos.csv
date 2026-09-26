@@ -1,0 +1,3 @@
+Cluster,Clientes,Recency,Frequency,Monetary,Receita,TicketMedio,ProdutosDistintos,PercentualClientes,PercentualReceita,Segmento,Acao
+0,247,7.623481781376518,23.955465587044536,17103.89279352227,4224661.5200000005,988.3605851497933,207.88663967611336,5.693868142000922,47.53642645726698,Campeões e fiéis (C0),Benefícios de fidelidade e venda complementar; medir retenção e margem em 90 dias.
+1,4091,98.21779516010756,3.0835981422635053,1139.708475678318,4662547.374,383.1880062051814,52.66291860180885,94.30613185799908,52.46357354273301,Valiosos em risco (C1),Contato personalizado de reativação; medir recompra incremental em 60 dias.
